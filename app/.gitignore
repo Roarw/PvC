@@ -1,9 +1,10 @@
-## AUTO GENERATED
+## AUTO
 .gradle
 /local.properties
 /.idea/workspace.xml
 .DS_Store
 /build
+
 
 ## Android
 # Built application files
@@ -42,6 +43,7 @@ proguard/
 
 ## Intellij
 .idea/
+.gradle/
 *.iml
 *.iws
 
